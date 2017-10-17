@@ -1,0 +1,2 @@
+CREDENTIALS={}
+CREDENTIALS["debug"] = "debug"
